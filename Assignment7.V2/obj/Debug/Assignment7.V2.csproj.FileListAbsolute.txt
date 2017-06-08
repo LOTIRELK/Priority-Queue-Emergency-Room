@@ -1,0 +1,10 @@
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\bin\Debug\Assignment7.V2.exe.config
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\bin\Debug\Assignment7.V2.exe
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\bin\Debug\Assignment7.V2.pdb
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\bin\Debug\MetroFramework.dll
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\obj\Debug\Assignment7.V2.csprojResolveAssemblyReference.cache
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\obj\Debug\Assignment7.V2.Form1.resources
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\obj\Debug\Assignment7.V2.Properties.Resources.resources
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\obj\Debug\Assignment7.V2.csproj.GenerateResource.Cache
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\obj\Debug\Assignment7.V2.exe
+C:\Users\lorca\Documents\Assignment7.V2\Assignment7.V2\obj\Debug\Assignment7.V2.pdb
